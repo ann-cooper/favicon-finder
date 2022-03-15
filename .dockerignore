@@ -1,0 +1,27 @@
+# Reference: https://github.com/unit9/boilerplate-python/blob/master/.dockerignore
+Dockerfile
+README.md
+.git
+.env
+venv/
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
+*.DS_Store
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+test_reports/

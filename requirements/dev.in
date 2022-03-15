@@ -1,0 +1,5 @@
+-r main.in
+pytest
+pytest-cov
+pytest-html
+pytest-random-order
