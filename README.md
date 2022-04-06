@@ -85,20 +85,6 @@ Your application should use all reasonable techniques to find the fully qualifie
 1. The project should adhere to best practices of software design.
     1. This might include, but is not limited to, things like: running the project in Docker, writing unit tests, incorporating a linting suite, writing documentation, etc. None of these specific features are required; rather, they are just suggestions based on successful projects we've seen in the past. It's better to finish one of these items than it is to submit several incomplete items.
 
-### General Notes
-
-1. This assessment is used instead of a white-board coding interview during the final round of the hiring process; as such your submission should be representative of your skillset and what you bring to Wayfair.
-2. Usage of third-party libraries, frameworks and APIs is permitted. When evaluating whether, and which, libraries/frameworks/APIs to use, follow the same guidelines as you do in the real-world.
-
-## Submission
-
-1. Create a branch on which to implement your solution. While not a requirement, structuring your code into logical commits with explanatory commit messages will be helpful for the reviewer in understanding your process.
-1. When you finish your work and are done developing the project, create a PR to the `main` branch.
-   1. This should be *at least 1 day* before your scheduled final round interview to give the interviewers time to review the code.
-   1. Send an email to your contact person who originally sent the task details confirming the submission
-1. Please ensure the project does not include your name or other identifying information.
-1. Please do not upload your work to a public GitHub repository or distribute elsewhere.
-
 ## Evaluation
 
 When assessing the project, we will be looking for a few things:
