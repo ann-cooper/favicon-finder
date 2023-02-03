@@ -84,14 +84,3 @@ Your application should use all reasonable techniques to find the fully qualifie
     1. If you drew inspiration from any sources in particular, please include a link in your project's README.
 1. The project should adhere to best practices of software design.
     1. This might include, but is not limited to, things like: running the project in Docker, writing unit tests, incorporating a linting suite, writing documentation, etc. None of these specific features are required; rather, they are just suggestions based on successful projects we've seen in the past. It's better to finish one of these items than it is to submit several incomplete items.
-
-## Evaluation
-
-When assessing the project, we will be looking for a few things:
-
-1. Does the project meet the requirements of the prompt? **We will not evaluate projects further if they do not meet the prompt requirements**.
-1. Can we run the code and reproduce your result? Is the user experience (UX) reasonable?
-1. What is the general quality of the code?
-1. How is the project organized?
-
-[alexa-top-domains]: https://en.wikipedia.org/wiki/Alexa_Internet#Alexa_Traffic_Rank:~:text=A%20key%20metric%20published%20from%20Alexa,also%20simply%20known%20as%20Alexa%20Rank
