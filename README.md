@@ -51,8 +51,6 @@
 
 ------------------
 
-## Original README text
-
 ## Prompt
 
 Create an application, that given a CSV file of the first 1000 domains of the [Alexa top million domains][alexa-top-domains], finds their favicon URL, and saves the results to a CSV. The relevant domains can be found in the included file `favicon-finder-top-1k-domains.csv`.
